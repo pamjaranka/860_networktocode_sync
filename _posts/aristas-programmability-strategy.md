@@ -37,9 +37,11 @@ Before diving into each of these, I'll first point out that when I look at "OS p
 
 Update: shortly after this published, I was informed the latest release of EOS has gRPC support for streaming and also configuration of certain models. Some of these models are also exposed via NETCONF too.
 
-# Summary
+## Summary
 
 When I take a step back and look at Arista's strategy for programmability, this is what I'm left with:
+
+<!--more-->
 
 1.  Arista should consider creating a real object-based RESTful API--one that doesn't use CLI commands, even if this uses custom models. RESTCONF comes to mind.
 2.  There needs to be a differentiation between programmability and streaming telemetry.
