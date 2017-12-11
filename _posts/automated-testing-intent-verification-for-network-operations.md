@@ -1,8 +1,11 @@
 ---
+ID: 762
 post_title: 'Automated Testing &amp; Intent Verification for Network Operations'
 author: admin_network_to_code
-post_excerpt: "The most important part of writing quality software is testing."
+post_excerpt: ""
 layout: ntc
+permalink: >
+  http://staging.dizzain.net/860-networktocode/ntc/automated-testing-intent-verification-for-network-operations/
 published: true
 post_date: 2017-10-23 15:08:46
 ---
