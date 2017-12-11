@@ -1,11 +1,8 @@
 ---
-ID: 757
 post_title: 'Arista&#8217;s Programmability Strategy'
 author: admin_network_to_code
-post_excerpt: ""
+post_excerpt: "Arista is largely known for its operating system, best known as EOS. "
 layout: ntc
-permalink: >
-  http://staging.dizzain.net/860-networktocode/ntc/aristas-programmability-strategy/
 published: true
 post_date: 2017-10-01 15:08:46
 ---
