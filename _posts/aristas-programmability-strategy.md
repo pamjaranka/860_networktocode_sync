@@ -11,6 +11,8 @@ post_date: 2017-10-01 15:08:46
 ---
 Arista is largely known for its operating system, best known as EOS. Arista has been known to deploy new features at a more rapid pace than other vendors and to have a more open OS--since EOS was the first production-grade network network operating system to expose any form of Linux to end users.
 
+<!--more-->
+
 Because of this, I believe it's perceived Arista has a better programmability strategy than other vendors. From what I can tell, it is not the case. However, given a few features Arista has in EOS, it makes programming EOS a bit easier than other platforms. Let's take a look.
 
 At Network Field Day 16, Arista reviewed their programmability strategy. There were 5 core components reviewed:
@@ -41,7 +43,6 @@ Update: shortly after this published, I was informed the latest release of EOS h
 
 When I take a step back and look at Arista's strategy for programmability, this is what I'm left with:
 
-<!--more-->
 
 1.  Arista should consider creating a real object-based RESTful API--one that doesn't use CLI commands, even if this uses custom models. RESTCONF comes to mind.
 2.  There needs to be a differentiation between programmability and streaming telemetry.

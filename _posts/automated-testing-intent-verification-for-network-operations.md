@@ -15,9 +15,10 @@ The most important part of writing quality software is testing. Writing unit tes
 
 I've written in the past that deploying configurations faster, or more generally, configuration management, is just one small piece of what network automation is. A major component much less talked about is automated testing. Automated testing starts with data collection and quickly evolves to include verification. It's quite a simple idea and one that [we][1] recommend as the best place to start with automation as it's much more risk adverse to *deploying configurations faster*.
 
+<!--more-->
+
 In our example, the network is the application, and *unit tests* need to be written to verify *our application* (as network operators) has valid configurations before each change is implemented, but also integrations tests are needed to ensure *our application* is operating as expected after each change.
 
-<!--more-->
 
 ## DIY Testing
 
