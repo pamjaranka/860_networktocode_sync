@@ -33,7 +33,7 @@ It is important to note each chassis supports up to five (5) fabric modules.  Ea
 
 **Answer:**
 
-![Nexus Bandwidth Capacity](/img/7kbwcap.jpg)
+![Nexus Bandwidth Capacity](/860-networktocode/wp-content/themes/networktocode/img/7kbwcap.jpg)
 
 *20 linerate ports through fabric
 
@@ -46,7 +46,7 @@ FAB1 & FAB2 modules are both forward and backward compatible.  For example, a FA
 
 **Answer:**
 
-![7K Latency](/img/7klatency.jpg)
+![7K Latency](/860-networktocode/wp-content/themes/networktocode/img/7klatency.jpg)
 
 N5K and N3K latency has also been included because many times if you need this info for financial applications or any other latency sensitive app, the comparison usually ends up expanding to include these platforms as well.
 
