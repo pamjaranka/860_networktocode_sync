@@ -3,6 +3,7 @@ layout: ntc
 tags: network automation, ci/cd
 published: true
 post_title: Automated Testing & Intent Verification for Network Operations
+post_date: 2017-10-23 00:00:00 
 ---
 
 
