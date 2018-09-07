@@ -1,8 +1,11 @@
 ---
+ID: 47
 post_title: Nam facilisis ultrices dolor
 author: admin_network_to_code
 post_excerpt: ""
-layout: ntc
+layout: post
+permalink: >
+  http://0m0.cbe.myftpupload.com/nam-facilisis-ultrices-dolor/
 published: true
 post_date: 2017-09-05 14:01:54
 ---

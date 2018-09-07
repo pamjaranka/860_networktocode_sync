@@ -1,8 +1,11 @@
 ---
+ID: 84
 post_title: Training Schedule
 author: admin_network_to_code
 post_excerpt: ""
-layout: ntc
+layout: post
+permalink: >
+  http://0m0.cbe.myftpupload.com/training-schedule/
 published: true
 post_date: 2017-09-07 14:48:05
 ---

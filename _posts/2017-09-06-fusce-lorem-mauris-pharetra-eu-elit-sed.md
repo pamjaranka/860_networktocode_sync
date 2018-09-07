@@ -1,8 +1,11 @@
 ---
+ID: 54
 post_title: Fusce lorem mauris, pharetra eu elit sed
 author: admin_network_to_code
 post_excerpt: ""
-layout: ntc
+layout: post
+permalink: >
+  http://0m0.cbe.myftpupload.com/fusce-lorem-mauris-pharetra-eu-elit-sed/
 published: true
 post_date: 2017-09-06 08:33:45
 ---
